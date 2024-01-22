@@ -1,5 +1,7 @@
 To visit my website click here (https://atheeqxcode.github.io/Text-Editor/)
-####  Text-Editor
+#  Text-Editor
+![TextEditor project demo](https://github.com/Atheeqxcode/Text-Editor/assets/122463167/d77c4115-2d5d-42c2-aaa8-2ea64e531880)
+
 # This website is in under-Development
 
 # Getting Started with Create React App
