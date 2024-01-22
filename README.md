@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # # # # Text-Editor
 # This website is in under-Development
 
@@ -71,3 +72,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Text-Editor
+>>>>>>> fa88430c9e4beba3dafb119ed1b8893c847f8d4e
