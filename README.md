@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# # # #  Text-Editor
+To visit my website click here (https://atheeqxcode.github.io/Text-Editor/)
+####  Text-Editor
 # This website is in under-Development
 
 # Getting Started with Create React App
