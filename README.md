@@ -1,4 +1,4 @@
-To visit my website click here (https://atheeqxcode.github.io/Text-Editor/)
+click here to checkout 👇🏻 (https://atheeqxcode.github.io/Text-Editor/)
 #  Text-Editor
 ![TextEditor project demo](https://github.com/Atheeqxcode/Text-Editor/assets/122463167/d77c4115-2d5d-42c2-aaa8-2ea64e531880)
 
@@ -20,7 +20,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+### `nm test`
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
