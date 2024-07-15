@@ -1,27 +1,21 @@
-import React, { useState } from 'react';
-import Navbar from './components/Navbar';
+// import React, { useState } from 'react';
+// import Navbar from './components/Navbar';
 import TextForm from './components/TextForm';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import Footer from './components/Footer';
+import Header from './components/Header';
+
 
 function App() {
-  const [Mode, setMode] = useState('light');
+  
 
-  const toggleMode = () => {
-    if (Mode === 'light') {
-      setMode('dark');
-      document.body.style.backgroundColor = 'black';
-      document.title = 'Text-Editor DarkMode';
-    } else {
-      setMode('light');
-      document.body.style.backgroundColor = 'white';
-      document.title = 'Text-Editor LightMode';
-    }
-  };
+
 
   return (
     <>
-      <Navbar title="Text Editor" mode={Mode} toggleMode={toggleMode} />
+      <Header />
       <TextForm heading="Enter your Text Below!" />
+      <Footer />
     </>
   );
 }

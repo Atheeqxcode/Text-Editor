@@ -1,0 +1,13 @@
+/* header.css */
+.title {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+  }
+  
+  .title img {
+    width: 500px; /* Adjust width as needed */
+    height: auto; /* Maintain aspect ratio */
+  }
+  
