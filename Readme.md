@@ -27,7 +27,7 @@ The Text Summarizer and Editor is a powerful tool designed to streamline the pro
 
 To get started, clone the repository and install the necessary dependencies:
 
-``bash
+```bash
 git clone https://github.com/Atheeqxcode/Text-Editor.git
 cd text-summarizer-editor
 npm install
